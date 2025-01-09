@@ -13,8 +13,6 @@ products:
       text: "We’re proud to offer a variety of advices. Check our post or contact us directly for current availability."
     - image: /img/blowfish_logo_transparent.jpg
       text: ", you’ll find a gadget to fall in love with in our services."
-values:
-    heading: Our values
-    text: Co We want to turn this around a....
+.
 ---
 
