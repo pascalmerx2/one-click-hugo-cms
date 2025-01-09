@@ -1,7 +1,6 @@
 ---
 title: "Great ..."
 subtitle: Support dddd
-image: /img/blowfish_logo_transparent.jpg
 blurb:
     heading: Why ?
     text: "ARM is the best solution you need "
