@@ -1,5 +1,6 @@
 ---
 title: "Great ..."
+image: img/og-image.jpg
 subtitle: Support dddd
 blurb:
     heading: Why ?
