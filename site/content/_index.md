@@ -1,6 +1,6 @@
 ---
 title: "Great ..."
-image: img/og-image.jpg
+image: img/blowfish_logo_transparent.jpg
 subtitle: Support dddd
 blurb:
     heading: Why ?
